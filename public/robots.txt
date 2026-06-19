@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://my-dream-place-hotel.vercel.app/sitemap.xml
